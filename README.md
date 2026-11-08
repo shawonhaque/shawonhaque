@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f766e&height=180&section=header&text=Shawon%20Haque&fontSize=46&fontColor=ffffff&desc=Full%20Stack%20Developer&descSize=17&descAlignY=62&animation=fadeIn" alt="Shawon Haque — Full Stack Developer" />
 
-# Shawon Haque
+# ⦿ 𝚂𝚑𝚊𝚠𝚘𝚗 𝙷𝚊𝚚𝚞𝚎 ∞
 
 **Full Stack Developer** building fast, accessible and maintainable web applications — from polished interfaces in **React** and **Next.js** to the **Node.js** services behind them.
 
