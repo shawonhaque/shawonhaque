@@ -5,6 +5,9 @@
 <br/>
 
 # ⦿ 𝚂𝚑𝚊𝚠𝚘𝚗 𝙷𝚊𝚚𝚞𝚎 ∞
+<p align="center">
+  <img src="https://github.com/shawonhaque.png" width="150" height="150" style="border-radius:50%;" alt="Shawon Haque"/>
+</p>
 
 ### `Developer • Creative Thinker • Lifelong Learner`
 
