@@ -596,7 +596,7 @@
       
       
       
-    <svg x="16" y="16" width="768" height="88" viewBox="0 0 561.5999999999999 72" preserveAspectRatio="xMidYMid meet">
+    <svg x="16" y="16" width="768" height="50" viewBox="0 0 561.5999999999999 72" preserveAspectRatio="xMidYMid meet">
       <text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40" y="12.239999999999998" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#c5ff4a" xml:space="preserve"> ▄████▄   ████████  ████████   ▄████▄    ▄█████    ▄████▄   ████████  ████████</text>
 <text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40" y="26.639999999999997" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#c5ff4a" xml:space="preserve">██    ▀▀     ██        ██     ██    ██  ██        ██    ▀▀     ██        ██   </text>
 <text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40" y="41.04" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#c5ff4a" xml:space="preserve">██  ████     ██        ██     ████████   ▀████▄   ██           ██        ██   </text>
@@ -608,14 +608,327 @@
     </g>
   
 
-    <g transform="translate(0, 886)" id="widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544">
+    <g transform="translate(25, 840)" id="widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544">
 
       
+          <style>
+            @keyframes typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 {
+              from { width: 0; }
+              to { width: 386px; }
+            }
+            
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-0 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 0ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-1 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 26.666666666666668ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-2 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 53.333333333333336ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-3 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 80ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-4 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 106.66666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-5 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 133.33333333333334ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-6 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 160ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-7 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 186.66666666666669ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-8 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 213.33333333333334ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-9 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 240ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-10 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 266.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-11 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 293.33333333333337ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-12 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 320ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-13 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 346.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-14 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 373.33333333333337ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-15 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 400ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-16 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 426.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-17 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 453.33333333333337ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-18 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 480ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-19 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 506.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-20 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 533.3333333333334ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-21 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 560ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-22 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 586.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-23 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 613.3333333333334ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-24 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 640ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-25 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 666.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-26 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 693.3333333333334ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-27 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 720ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-28 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 746.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-29 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 773.3333333333334ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-30 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 800ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-31 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 826.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-32 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 853.3333333333334ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-33 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 880ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-34 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 906.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-35 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 933.3333333333334ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-36 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 960ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-37 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 986.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-38 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1013.3333333333334ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-39 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1040ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-40 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1066.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-41 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1093.3333333333335ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-42 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1120ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-43 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1146.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-44 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1173.3333333333335ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-45 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1200ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-46 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1226.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-47 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1253.3333333333335ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-48 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1280ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-49 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1306.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-50 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1333.3333333333335ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-51 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1360ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-52 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1386.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-53 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1413.3333333333335ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-54 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1440ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-55 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1466.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-56 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1493.3333333333335ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-57 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1520ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-58 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1546.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-59 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1573.3333333333335ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-60 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1600ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-61 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1626.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-62 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1653.3333333333335ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-63 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1680ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-64 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1706.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-65 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1733.3333333333335ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-66 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1760ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-67 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1786.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-68 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1813.3333333333335ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-69 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1840ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-70 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1866.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-71 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1893.3333333333335ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-72 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1920ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-73 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1946.6666666666667ms both;
+            }
+            #widget-widget_e9eda45d-0d50-4527-bdda-f01f47470544 .typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-74 {
+              animation: typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8 26.666666666666668ms linear 1973.3333333333335ms both;
+            }
+          </style>
+        
+      
+      <rect class="" x="0" y="0" width="386" height="386" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
       
       
-      
-      
-    <svg x="16" y="16" width="248" height="248" viewBox="0 0 783 750" preserveAspectRatio="xMidYMid meet">
+          <clipPath id="typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8">
+            <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-0" x="0" y="0" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-1" x="0" y="10" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-2" x="0" y="20" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-3" x="0" y="30" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-4" x="0" y="40" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-5" x="0" y="50" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-6" x="0" y="60" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-7" x="0" y="70" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-8" x="0" y="80" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-9" x="0" y="90" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-10" x="0" y="100" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-11" x="0" y="110" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-12" x="0" y="120" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-13" x="0" y="130" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-14" x="0" y="140" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-15" x="0" y="150" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-16" x="0" y="160" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-17" x="0" y="170" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-18" x="0" y="180" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-19" x="0" y="190" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-20" x="0" y="200" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-21" x="0" y="210" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-22" x="0" y="220" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-23" x="0" y="230" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-24" x="0" y="240" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-25" x="0" y="250" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-26" x="0" y="260" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-27" x="0" y="270" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-28" x="0" y="280" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-29" x="0" y="290" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-30" x="0" y="300" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-31" x="0" y="310" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-32" x="0" y="320" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-33" x="0" y="330" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-34" x="0" y="340" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-35" x="0" y="350" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-36" x="0" y="360" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-37" x="0" y="370" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-38" x="0" y="380" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-39" x="0" y="390" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-40" x="0" y="400" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-41" x="0" y="410" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-42" x="0" y="420" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-43" x="0" y="430" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-44" x="0" y="440" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-45" x="0" y="450" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-46" x="0" y="460" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-47" x="0" y="470" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-48" x="0" y="480" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-49" x="0" y="490" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-50" x="0" y="500" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-51" x="0" y="510" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-52" x="0" y="520" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-53" x="0" y="530" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-54" x="0" y="540" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-55" x="0" y="550" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-56" x="0" y="560" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-57" x="0" y="570" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-58" x="0" y="580" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-59" x="0" y="590" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-60" x="0" y="600" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-61" x="0" y="610" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-62" x="0" y="620" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-63" x="0" y="630" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-64" x="0" y="640" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-65" x="0" y="650" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-66" x="0" y="660" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-67" x="0" y="670" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-68" x="0" y="680" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-69" x="0" y="690" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-70" x="0" y="700" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-71" x="0" y="710" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-72" x="0" y="720" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-73" x="0" y="730" width="0" height="12" />
+          <rect class="typewriter-line-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8-74" x="0" y="740" width="0" height="12" />
+          
+          </clipPath>
+          <g clip-path="url(#typewriter-clip-widget_e9eda45d-0d50-4527-bdda-f01f47470544-8)">
+            
+    <svg x="16" y="16" width="354" height="354" viewBox="0 0 783 750" preserveAspectRatio="xMidYMid meet">
       <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68 234.90 240.12 245.34 250.56 255.78 261.00 266.22 271.44 276.66 281.88 287.10 292.32 297.54 302.76 307.98 313.20 318.42 323.64 328.86 334.08 339.30 344.52 349.74 354.96 360.18 365.40 370.62 375.84 381.06 386.28 391.50 396.72 401.94 407.16 412.38 417.60 422.82 428.04 433.26 438.48 443.70 448.92 454.14 459.36 464.58 469.80 475.02 480.24 485.46 490.68 495.90 501.12 506.34 511.56 516.78 522.00 527.22 532.44 537.66 542.88 548.10 553.32 558.54 563.76 568.98 574.20 579.42 584.64 589.86 595.08 600.30 605.52 610.74 615.96 621.18 626.40 631.62 636.84 642.06 647.28 652.50 657.72 662.94 668.16 673.38 678.60 683.82 689.04 694.26 699.48 704.70 709.92 715.14 720.36 725.58 730.80 736.02 741.24 746.46 751.68 756.90 762.12 767.34 772.56 777.78" y="8.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">..-:;/J}ln[u3fnn3v=&lt;/?sLLLLLT)|}ff{F(7)vTvJFCf}|JL??v|F{|v/+&gt;;&lt;&gt;&apos;&apos;:_Fjoi*+&gt;&gt;&gt;^_;jUbUUUUbbUKXVI3jbAXAKAAKAAKAAAAAAAAUUUUUAUUbbUUAXbwdO6KXPaAD$K3({{}2q2</text>
 <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68 234.90 240.12 245.34 250.56 255.78 261.00 266.22 271.44 276.66 281.88 287.10 292.32 297.54 302.76 307.98 313.20 318.42 323.64 328.86 334.08 339.30 344.52 349.74 354.96 360.18 365.40 370.62 375.84 381.06 386.28 391.50 396.72 401.94 407.16 412.38 417.60 422.82 428.04 433.26 438.48 443.70 448.92 454.14 459.36 464.58 469.80 475.02 480.24 485.46 490.68 495.90 501.12 506.34 511.56 516.78 522.00 527.22 532.44 537.66 542.88 548.10 553.32 558.54 563.76 568.98 574.20 579.42 584.64 589.86 595.08 600.30 605.52 610.74 615.96 621.18 626.40 631.62 636.84 642.06 647.28 652.50 657.72 662.94 668.16 673.38 678.60 683.82 689.04 694.26 699.48 704.70 709.92 715.14 720.36 725.58 730.80 736.02 741.24 746.46 751.68 756.90 762.12 767.34 772.56 777.78" y="18.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">7tIC|)))|)cTs?}l(}Cz_r/sL??sss/cc/zTvvLLLz!*L)7Jvsc&gt;;;==&gt;*L|t}F(&gt;-_cFtlu2n*^:^^f4yoooeooZoeo5h6EeeneeeeeeeeeneeeeeennnnnnnnneeeeeoajYyxS22YP5SeJ??i64N</text>
 <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68 234.90 240.12 245.34 250.56 255.78 261.00 266.22 271.44 276.66 281.88 287.10 292.32 297.54 302.76 307.98 313.20 318.42 323.64 328.86 334.08 339.30 344.52 349.74 354.96 360.18 365.40 370.62 375.84 381.06 386.28 391.50 396.72 401.94 407.16 412.38 417.60 422.82 428.04 433.26 438.48 443.70 448.92 454.14 459.36 464.58 469.80 475.02 480.24 485.46 490.68 495.90 501.12 506.34 511.56 516.78 522.00 527.22 532.44 537.66 542.88 548.10 553.32 558.54 563.76 568.98 574.20 579.42 584.64 589.86 595.08 600.30 605.52 610.74 615.96 621.18 626.40 631.62 636.84 642.06 647.28 652.50 657.72 662.94 668.16 673.38 678.60 683.82 689.04 694.26 699.48 704.70 709.92 715.14 720.36 725.58 730.80 736.02 741.24 746.46 751.68 756.90 762.12 767.34 772.56 777.78" y="28.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">FvvLssTJvLJr^&gt;+ieilu)^+!c*zsT)vLsz*r/?)7)Ts/r&lt;=^;!*?zsJfl3(u2jxyT&apos;,/3fu1Z5T^,_&lt;14joooZoeoeeeooooneooooeeeennennenennnnnnnnnn[eneneeox22xn3ixV4[LssJZPB</text>
@@ -693,11 +1006,13 @@
 <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68 234.90 240.12 245.34 250.56 255.78 261.00 266.22 271.44 276.66 281.88 287.10 292.32 297.54 302.76 307.98 313.20 318.42 323.64 328.86 334.08 339.30 344.52 349.74 354.96 360.18 365.40 370.62 375.84 381.06 386.28 391.50 396.72 401.94 407.16 412.38 417.60 422.82 428.04 433.26 438.48 443.70 448.92 454.14 459.36 464.58 469.80 475.02 480.24 485.46 490.68 495.90 501.12 506.34 511.56 516.78 522.00 527.22 532.44 537.66 542.88 548.10 553.32 558.54 563.76 568.98 574.20 579.42 584.64 589.86 595.08 600.30 605.52 610.74 615.96 621.18 626.40 631.62 636.84 642.06 647.28 652.50 657.72 662.94 668.16 673.38 678.60 683.82 689.04 694.26 699.48 704.70 709.92 715.14 720.36 725.58 730.80 736.02 741.24 746.46 751.68 756.90 762.12 767.34 772.56 777.78" y="748.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">4V4O4ppbGdPEy2]ayaE2d8XAHKObbdpV9hjZPpdq22]2xaZ3[Zj}t3l!:1DmX8#g00DOPV21]4m$BgBg$RXAAB6h)zLvFj&amp;&amp;%WWM$RXXRXHR$0$URmUHmbUUbGObbH8Uhkhpd4GA$NWM0NM$DgWQQ%</text>
     </svg>
   
+          </g>
+        
   
     </g>
   
 
-    <g transform="translate(0, 1182)" id="widget-widget_d82c5718-a874-4c86-89c6-f6c69fb4f33e">
+    <g transform="translate(10, 1216)" id="widget-widget_d82c5718-a874-4c86-89c6-f6c69fb4f33e">
 
       
       

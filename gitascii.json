@@ -11638,7 +11638,7 @@
       },
       "size": {
         "width": 800,
-        "height": 120
+        "height": 82
       },
       "config": {
         "customText": "GitAscii",
@@ -11666,12 +11666,12 @@
       "widgetId": "ascii-art",
       "name": "Ascii-art Widget",
       "position": {
-        "x": 0,
-        "y": 886
+        "x": 25,
+        "y": 840
       },
       "size": {
-        "width": 280,
-        "height": 280
+        "width": 386,
+        "height": 386
       },
       "config": {
         "lockAspectRatio": true,
@@ -23155,7 +23155,10 @@
           ]
         ],
         "cols": 150,
-        "rows": 75
+        "rows": 75,
+        "animationType": "typewriter",
+        "animationPreviewKey": 8,
+        "animationDuration": 2000
       },
       "locked": false,
       "visible": true,
@@ -23166,8 +23169,8 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 0,
-        "y": 1182
+        "x": 10,
+        "y": 1216
       },
       "size": {
         "width": 504,
@@ -35082,7 +35085,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794117438950_vnsio",
-    "updatedAt": "2026-11-08T05:57:22.370Z"
+    "revision": "rev_1794117596706_rv6s2",
+    "updatedAt": "2026-11-08T06:00:00.702Z"
   }
 }
