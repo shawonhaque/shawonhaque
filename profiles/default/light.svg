@@ -107,10 +107,323 @@
     <g transform="translate(0, 106)" id="widget-widget_1794116425862_1">
 
       
+          <style>
+            @keyframes typewriter-clip-widget_1794116425862_1-14 {
+              from { width: 0; }
+              to { width: 280px; }
+            }
+            
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-0 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 0ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-1 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 37.333333333333336ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-2 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 74.66666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-3 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 112ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-4 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 149.33333333333334ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-5 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 186.66666666666669ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-6 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 224ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-7 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 261.33333333333337ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-8 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 298.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-9 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 336ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-10 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 373.33333333333337ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-11 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 410.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-12 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 448ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-13 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 485.33333333333337ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-14 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 522.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-15 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 560ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-16 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 597.3333333333334ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-17 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 634.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-18 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 672ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-19 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 709.3333333333334ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-20 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 746.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-21 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 784ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-22 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 821.3333333333334ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-23 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 858.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-24 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 896ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-25 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 933.3333333333334ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-26 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 970.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-27 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1008.0000000000001ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-28 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1045.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-29 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1082.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-30 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1120ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-31 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1157.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-32 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1194.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-33 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1232ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-34 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1269.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-35 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1306.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-36 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1344ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-37 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1381.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-38 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1418.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-39 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1456ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-40 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1493.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-41 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1530.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-42 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1568ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-43 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1605.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-44 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1642.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-45 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1680ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-46 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1717.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-47 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1754.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-48 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1792ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-49 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1829.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-50 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1866.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-51 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1904.0000000000002ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-52 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1941.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-53 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 1978.6666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-54 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2016.0000000000002ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-55 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2053.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-56 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2090.666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-57 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2128ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-58 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2165.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-59 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2202.666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-60 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2240ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-61 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2277.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-62 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2314.666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-63 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2352ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-64 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2389.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-65 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2426.666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-66 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2464ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-67 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2501.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-68 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2538.666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-69 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2576ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-70 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2613.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-71 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2650.666666666667ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-72 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2688ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-73 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2725.3333333333335ms both;
+            }
+            #widget-widget_1794116425862_1 .typewriter-line-widget_1794116425862_1-14-74 {
+              animation: typewriter-clip-widget_1794116425862_1-14 37.333333333333336ms linear 2762.666666666667ms both;
+            }
+          </style>
+        
+      
+      <rect class="" x="0" y="0" width="280" height="280" fill="#060606" stroke="#252525" stroke-width="0" rx="0" />
       
       
-      
-      
+          <clipPath id="typewriter-clip-widget_1794116425862_1-14">
+            <rect class="typewriter-line-widget_1794116425862_1-14-0" x="0" y="0" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-1" x="0" y="10" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-2" x="0" y="20" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-3" x="0" y="30" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-4" x="0" y="40" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-5" x="0" y="50" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-6" x="0" y="60" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-7" x="0" y="70" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-8" x="0" y="80" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-9" x="0" y="90" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-10" x="0" y="100" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-11" x="0" y="110" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-12" x="0" y="120" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-13" x="0" y="130" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-14" x="0" y="140" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-15" x="0" y="150" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-16" x="0" y="160" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-17" x="0" y="170" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-18" x="0" y="180" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-19" x="0" y="190" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-20" x="0" y="200" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-21" x="0" y="210" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-22" x="0" y="220" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-23" x="0" y="230" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-24" x="0" y="240" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-25" x="0" y="250" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-26" x="0" y="260" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-27" x="0" y="270" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-28" x="0" y="280" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-29" x="0" y="290" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-30" x="0" y="300" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-31" x="0" y="310" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-32" x="0" y="320" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-33" x="0" y="330" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-34" x="0" y="340" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-35" x="0" y="350" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-36" x="0" y="360" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-37" x="0" y="370" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-38" x="0" y="380" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-39" x="0" y="390" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-40" x="0" y="400" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-41" x="0" y="410" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-42" x="0" y="420" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-43" x="0" y="430" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-44" x="0" y="440" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-45" x="0" y="450" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-46" x="0" y="460" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-47" x="0" y="470" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-48" x="0" y="480" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-49" x="0" y="490" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-50" x="0" y="500" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-51" x="0" y="510" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-52" x="0" y="520" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-53" x="0" y="530" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-54" x="0" y="540" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-55" x="0" y="550" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-56" x="0" y="560" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-57" x="0" y="570" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-58" x="0" y="580" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-59" x="0" y="590" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-60" x="0" y="600" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-61" x="0" y="610" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-62" x="0" y="620" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-63" x="0" y="630" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-64" x="0" y="640" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-65" x="0" y="650" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-66" x="0" y="660" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-67" x="0" y="670" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-68" x="0" y="680" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-69" x="0" y="690" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-70" x="0" y="700" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-71" x="0" y="710" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-72" x="0" y="720" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-73" x="0" y="730" width="0" height="12" />
+          <rect class="typewriter-line-widget_1794116425862_1-14-74" x="0" y="740" width="0" height="12" />
+          
+          </clipPath>
+          <g clip-path="url(#typewriter-clip-widget_1794116425862_1-14)">
+            
     <svg x="16" y="16" width="248" height="248" viewBox="0 0 783 750" preserveAspectRatio="xMidYMid meet">
       <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68 234.90 240.12 245.34 250.56 255.78 261.00 266.22 271.44 276.66 281.88 287.10 292.32 297.54 302.76 307.98 313.20 318.42 323.64 328.86 334.08 339.30 344.52 349.74 354.96 360.18 365.40 370.62 375.84 381.06 386.28 391.50 396.72 401.94 407.16 412.38 417.60 422.82 428.04 433.26 438.48 443.70 448.92 454.14 459.36 464.58 469.80 475.02 480.24 485.46 490.68 495.90 501.12 506.34 511.56 516.78 522.00 527.22 532.44 537.66 542.88 548.10 553.32 558.54 563.76 568.98 574.20 579.42 584.64 589.86 595.08 600.30 605.52 610.74 615.96 621.18 626.40 631.62 636.84 642.06 647.28 652.50 657.72 662.94 668.16 673.38 678.60 683.82 689.04 694.26 699.48 704.70 709.92 715.14 720.36 725.58 730.80 736.02 741.24 746.46 751.68 756.90 762.12 767.34 772.56 777.78" y="8.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">..-:;/J}ln[u3fnn3v=&lt;/?sLLLLLT)|}ff{F(7)vTvJFCf}|JL??v|F{|v/+&gt;;&lt;&gt;&apos;&apos;:_Fjoi*+&gt;&gt;&gt;^_;jUbUUUUbbUKXVI3jbAXAKAAKAAKAAAAAAAAUUUUUAUUbbUUAXbwdO6KXPaAD$K3({{}2q2</text>
 <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68 234.90 240.12 245.34 250.56 255.78 261.00 266.22 271.44 276.66 281.88 287.10 292.32 297.54 302.76 307.98 313.20 318.42 323.64 328.86 334.08 339.30 344.52 349.74 354.96 360.18 365.40 370.62 375.84 381.06 386.28 391.50 396.72 401.94 407.16 412.38 417.60 422.82 428.04 433.26 438.48 443.70 448.92 454.14 459.36 464.58 469.80 475.02 480.24 485.46 490.68 495.90 501.12 506.34 511.56 516.78 522.00 527.22 532.44 537.66 542.88 548.10 553.32 558.54 563.76 568.98 574.20 579.42 584.64 589.86 595.08 600.30 605.52 610.74 615.96 621.18 626.40 631.62 636.84 642.06 647.28 652.50 657.72 662.94 668.16 673.38 678.60 683.82 689.04 694.26 699.48 704.70 709.92 715.14 720.36 725.58 730.80 736.02 741.24 746.46 751.68 756.90 762.12 767.34 772.56 777.78" y="18.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">7tIC|)))|)cTs?}l(}Cz_r/sL??sss/cc/zTvvLLLz!*L)7Jvsc&gt;;;==&gt;*L|t}F(&gt;-_cFtlu2n*^:^^f4yoooeooZoeo5h6EeeneeeeeeeeeneeeeeennnnnnnnneeeeeoajYyxS22YP5SeJ??i64N</text>
@@ -189,6 +502,8 @@
 <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68 234.90 240.12 245.34 250.56 255.78 261.00 266.22 271.44 276.66 281.88 287.10 292.32 297.54 302.76 307.98 313.20 318.42 323.64 328.86 334.08 339.30 344.52 349.74 354.96 360.18 365.40 370.62 375.84 381.06 386.28 391.50 396.72 401.94 407.16 412.38 417.60 422.82 428.04 433.26 438.48 443.70 448.92 454.14 459.36 464.58 469.80 475.02 480.24 485.46 490.68 495.90 501.12 506.34 511.56 516.78 522.00 527.22 532.44 537.66 542.88 548.10 553.32 558.54 563.76 568.98 574.20 579.42 584.64 589.86 595.08 600.30 605.52 610.74 615.96 621.18 626.40 631.62 636.84 642.06 647.28 652.50 657.72 662.94 668.16 673.38 678.60 683.82 689.04 694.26 699.48 704.70 709.92 715.14 720.36 725.58 730.80 736.02 741.24 746.46 751.68 756.90 762.12 767.34 772.56 777.78" y="748.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">4V4O4ppbGdPEy2]ayaE2d8XAHKObbdpV9hjZPpdq22]2xaZ3[Zj}t3l!:1DmX8#g00DOPV21]4m$BgBg$RXAAB6h)zLvFj&amp;&amp;%WWM$RXXRXHR$0$URmUHmbUUbGObbH8Uhkhpd4GA$NWM0NM$DgWQQ%</text>
     </svg>
   
+          </g>
+        
   
     </g>
   
