@@ -11519,7 +11519,8 @@
           ]
         ],
         "invert": false,
-        "hideBorder": true
+        "hideBorder": true,
+        "textColor": "#00ffff"
       },
       "locked": false,
       "visible": true,
@@ -23193,7 +23194,8 @@
         "accentColor": "#3fb950",
         "secondaryColor": "#39c5cf",
         "borderColor": "#30363d",
-        "langsCount": 7
+        "langsCount": 7,
+        "animated": true
       },
       "locked": false,
       "visible": true,
@@ -35077,7 +35079,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794117309556_5u5p5",
-    "updatedAt": "2026-11-08T05:55:13.413Z"
+    "revision": "rev_1794117408097_n9g9e",
+    "updatedAt": "2026-11-08T05:56:51.843Z"
   }
 }
