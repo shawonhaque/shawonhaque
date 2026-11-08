@@ -177,7 +177,7 @@
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:651FFF,100:080018&height=120&section=footer"/>
-
+![Snake animation](https://raw.githubusercontent.com/shawonhaque/shawonhaque/output/github-contribution-grid-snake-dark.svg)
 <sub>⚡ Engineered with curiosity · Powered by imagination · Built by Shawon Haque</sub>
 
 </div>
