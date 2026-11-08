@@ -39,20 +39,29 @@ I'd rather show a small body of honest work than a long list of things that don'
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,github,vscode,linux&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Node.js, Git, GitHub, VS Code, Linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,supabase,git,github,linux&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Supabase, Git, GitHub, Linux" />
 
 </div>
 
 | Area | Technologies |
 |------|--------------|
-| **Frontend** | HTML · CSS · JavaScript · Responsive layout · Web accessibility |
-| **Frameworks & libraries** | React.js · Next.js |
-| **Backend** | Node.js · REST APIs |
-| **Tools & workflow** | Git · GitHub · GitHub Actions · VS Code · Linux |
+| **Frontend** | HTML · CSS · JavaScript · TypeScript · Responsive layout · Web accessibility |
+| **Frameworks & libraries** | React.js · Next.js · Tailwind CSS |
+| **Backend & data** | Node.js · REST APIs · PostgreSQL · Supabase · Row Level Security |
+| **Tools & workflow** | Git · GitHub · GitHub Actions · Vite · VS Code · Linux |
 
 ---
 
-## Featured project
+## Featured projects
+
+### [NEXORA — full-stack knowledge platform](https://shawonhaque.github.io/Nexora/) &nbsp;·&nbsp; [source](https://github.com/shawonhaque/Nexora)
+
+A full-stack knowledge platform for news, books, study resources and writing. Sixteen
+routed views with full-text search, light/dark theming and an authenticated admin area.
+The backend is Supabase and Postgres with a thirteen-table schema and Row Level Security
+on every table — the database, not the client, decides who may read or write each row.
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Supabase` `PostgreSQL` `Row Level Security`
 
 ### [Personal Portfolio](https://shawonhaque.github.io) &nbsp;·&nbsp; [source](https://github.com/shawonhaque/shawonhaque.github.io)
 
@@ -70,8 +79,7 @@ metadata, and automated deployment.
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=shawonhaque&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" />
-<img width="49%" src="https://ghchart.rshah.org/4f8cff/shawonhaque" alt="Contribution calendar" />
+<img width="70%" src="https://streak-stats.demolab.com?user=shawonhaque&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" />
 
 </div>
 
