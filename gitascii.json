@@ -23179,8 +23179,8 @@
       "widgetId": "premium-ascii-profile-card",
       "name": "Premium-ascii-profile-card Widget",
       "position": {
-        "x": 16,
-        "y": 1504
+        "x": 1,
+        "y": 1478
       },
       "size": {
         "width": 520,
@@ -35076,7 +35076,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794117219636_4vs8f",
-    "updatedAt": "2026-11-08T05:53:43.770Z"
+    "revision": "rev_1794117269613_r7xfi",
+    "updatedAt": "2026-11-08T05:54:33.999Z"
   }
 }
