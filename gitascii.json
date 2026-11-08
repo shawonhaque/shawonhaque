@@ -11517,7 +11517,9 @@
             "#fcf3de",
             "#fdf4e0"
           ]
-        ]
+        ],
+        "invert": false,
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
@@ -11637,17 +11639,19 @@
       "config": {
         "customText": "GitAscii",
         "asciiFont": "block",
-        "charSpacing": 1,
+        "charSpacing": 2,
         "fontSize": 12,
         "charset": "default",
         "customCharset": "",
         "asciiLines": [
-          " ▄████▄  ████████ ████████  ▄████▄   ▄█████   ▄████▄  ████████ ████████",
-          "██    ▀▀    ██       ██    ██    ██ ██       ██    ▀▀    ██       ██   ",
-          "██  ████    ██       ██    ████████  ▀████▄  ██          ██       ██   ",
-          "██    ██    ██       ██    ██    ██       ██ ██    ▄▄    ██       ██   ",
-          " ▀████▀  ████████    ██    ██    ██ ██████▀   ▀████▀  ████████ ████████"
-        ]
+          " ▄████▄   ████████  ████████   ▄████▄    ▄█████    ▄████▄   ████████  ████████",
+          "██    ▀▀     ██        ██     ██    ██  ██        ██    ▀▀     ██        ██   ",
+          "██  ████     ██        ██     ████████   ▀████▄   ██           ██        ██   ",
+          "██    ██     ██        ██     ██    ██        ██  ██    ▄▄     ██        ██   ",
+          " ▀████▀   ████████     ██     ██    ██  ██████▀    ▀████▀   ████████  ████████"
+        ],
+        "cols": 98,
+        "detail": "custom"
       },
       "locked": false,
       "visible": true,
@@ -23171,29 +23175,12 @@
       "zIndex": 10
     },
     {
-      "instanceId": "widget_d57ae1c9-662a-4fc7-be7c-cb8961fc6a4a",
-      "widgetId": "terminal-info",
-      "name": "Terminal-info Widget",
-      "position": {
-        "x": 0,
-        "y": 1478
-      },
-      "size": {
-        "width": 504,
-        "height": 280
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 11
-    },
-    {
       "instanceId": "widget_405b2688-e373-47c0-abc3-61fa7bbaf2a8",
       "widgetId": "premium-ascii-profile-card",
       "name": "Premium-ascii-profile-card Widget",
       "position": {
-        "x": 0,
-        "y": 1950
+        "x": 16,
+        "y": 1504
       },
       "size": {
         "width": 520,
@@ -23216,8 +23203,8 @@
       "widgetId": "premium-ascii-dev-score",
       "name": "Premium-ascii-dev-score Widget",
       "position": {
-        "x": 0,
-        "y": 2406
+        "x": 25,
+        "y": 1968
       },
       "size": {
         "width": 400,
@@ -23240,12 +23227,12 @@
       "widgetId": "premium-ascii-insights",
       "name": "Premium-ascii-insights Widget",
       "position": {
-        "x": 0,
-        "y": 2672
+        "x": 34,
+        "y": 2160
       },
       "size": {
-        "width": 400,
-        "height": 280
+        "width": 336,
+        "height": 336
       },
       "config": {
         "lockAspectRatio": true,
@@ -23264,8 +23251,8 @@
       "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
       "position": {
-        "x": 0,
-        "y": 2968
+        "x": 430,
+        "y": 2008
       },
       "size": {
         "width": 370,
@@ -34764,8 +34751,8 @@
       "widgetId": "asciiprofile-info",
       "name": "Asciiprofile-info Widget",
       "position": {
-        "x": 0,
-        "y": 3384
+        "x": 16,
+        "y": 2784
       },
       "size": {
         "width": 490,
@@ -34783,8 +34770,8 @@
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 0,
-        "y": 3800
+        "x": 20,
+        "y": 2496
       },
       "size": {
         "width": 780,
@@ -34802,8 +34789,8 @@
       "widgetId": "godprofile-terminal",
       "name": "Godprofile-terminal Widget",
       "position": {
-        "x": 0,
-        "y": 4056
+        "x": 34,
+        "y": 3224
       },
       "size": {
         "width": 450,
@@ -34822,7 +34809,7 @@
       "name": "Godprofile-neural Widget",
       "position": {
         "x": 0,
-        "y": 4372
+        "y": 3548
       },
       "size": {
         "width": 800,
@@ -34841,7 +34828,7 @@
       "name": "Godprofile-marquee Widget",
       "position": {
         "x": 0,
-        "y": 4708
+        "y": 3856
       },
       "size": {
         "width": 800,
@@ -34860,7 +34847,7 @@
       "name": "Controlplane-system-loop Widget",
       "position": {
         "x": 0,
-        "y": 4844
+        "y": 3952
       },
       "size": {
         "width": 800,
@@ -34875,32 +34862,12 @@
       "zIndex": 22
     },
     {
-      "instanceId": "widget_057baf23-62a1-4fde-b3e6-93f64c979dc2",
-      "widgetId": "controlplane-command-deck",
-      "name": "Controlplane-command-deck Widget",
-      "position": {
-        "x": 0,
-        "y": 5220
-      },
-      "size": {
-        "width": 800,
-        "height": 300
-      },
-      "config": {
-        "layoutType": "hero",
-        "accentColor": "#00A7D1"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 23
-    },
-    {
       "instanceId": "widget_c0990e31-9c9a-442c-a6ab-686e8c5f1c75",
       "widgetId": "controlplane-signal-grid",
       "name": "Controlplane-signal-grid Widget",
       "position": {
         "x": 0,
-        "y": 5536
+        "y": 4296
       },
       "size": {
         "width": 800,
@@ -34920,7 +34887,7 @@
       "name": "Codeweb-hero-orbit Widget",
       "position": {
         "x": 0,
-        "y": 5872
+        "y": 4640
       },
       "size": {
         "width": 800,
@@ -34937,7 +34904,7 @@
       "name": "Codeweb-showcase-cards Widget",
       "position": {
         "x": 0,
-        "y": 6248
+        "y": 5056
       },
       "size": {
         "width": 800,
@@ -34954,7 +34921,7 @@
       "name": "Codeweb-retro-grid Widget",
       "position": {
         "x": 0,
-        "y": 6484
+        "y": 5324
       },
       "size": {
         "width": 800,
@@ -34988,8 +34955,8 @@
       "widgetId": "surveillance-header",
       "name": "Surveillance-header Widget",
       "position": {
-        "x": 0,
-        "y": 6760
+        "x": 20,
+        "y": 5616
       },
       "size": {
         "width": 780,
@@ -35008,8 +34975,8 @@
       "widgetId": "surveillance-dossier",
       "name": "Surveillance-dossier Widget",
       "position": {
-        "x": 0,
-        "y": 7193
+        "x": 20,
+        "y": 6057
       },
       "size": {
         "width": 780,
@@ -35028,8 +34995,8 @@
       "widgetId": "surveillance-loadout",
       "name": "Surveillance-loadout Widget",
       "position": {
-        "x": 0,
-        "y": 7469
+        "x": 10,
+        "y": 6376
       },
       "size": {
         "width": 780,
@@ -35048,8 +35015,8 @@
       "widgetId": "winxp-window",
       "name": "Winxp-window Widget",
       "position": {
-        "x": 0,
-        "y": 7685
+        "x": 20,
+        "y": 6624
       },
       "size": {
         "width": 780,
@@ -35065,8 +35032,8 @@
       "widgetId": "minecraft-inventory",
       "name": "Minecraft-inventory Widget",
       "position": {
-        "x": 0,
-        "y": 8081
+        "x": 25,
+        "y": 7040
       },
       "size": {
         "width": 500,
@@ -35082,8 +35049,8 @@
       "widgetId": "minecraft-chat",
       "name": "Minecraft-chat Widget",
       "position": {
-        "x": 0,
-        "y": 8407
+        "x": 28,
+        "y": 7386
       },
       "size": {
         "width": 480,
@@ -35109,7 +35076,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794116812852_qfd3s",
-    "updatedAt": "2026-11-08T05:46:56.382Z"
+    "revision": "rev_1794117219636_4vs8f",
+    "updatedAt": "2026-11-08T05:53:43.770Z"
   }
 }
