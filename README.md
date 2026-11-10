@@ -18,6 +18,12 @@
 <a href="https://wa.me/8801318123867">
   <img src="https://img.shields.io/badge/WhatsApp-Chat-25d366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
+<a href="https://shawonhaque.github.io/projects/">
+  <img src="https://img.shields.io/badge/Case%20studies-Read-0f766e?style=flat-square&logo=readme&logoColor=white" alt="Case studies" />
+</a>
+<a href="https://shawonhaque.github.io/writing.html">
+  <img src="https://img.shields.io/badge/Writing-Long--form-1f2937?style=flat-square&logo=googledocs&logoColor=white" alt="Writing" />
+</a>
 <a href="https://github.com/shawonhaque?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Browse-1f2937?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
 </a>
@@ -38,6 +44,8 @@ underneath it, and how quickly it loads for the people relying on it.
 - **Currently** - building out my public track record, one real, tested project at a time
 
 I would rather show a small body of honest work than a long list of things that do not exist.
+[How I learned this stack, and how I build](https://shawonhaque.github.io/journey.html).
+I also write up the work in detail - [case studies and long-form notes](https://shawonhaque.github.io/writing.html).
 
 ---
 
@@ -62,22 +70,31 @@ I would rather show a small body of honest work than a long list of things that 
 
 ### [NEXORA, full-stack knowledge platform](https://shawonhaque.github.io/Nexora/) &nbsp;·&nbsp; [source](https://github.com/shawonhaque/Nexora)
 
-A full-stack knowledge platform for news, books, study resources and writing. Sixteen
-routed views with full-text search, light/dark theming and an authenticated admin area.
-The backend is Supabase and Postgres with a thirteen-table schema and Row Level Security
-on every table - the database, not the client, decides who may read or write each row.
+A full-stack knowledge platform for news, books, study resources and writing. Twenty page
+modules across thirty-three routes, with full-text search, light/dark theming and an
+authenticated admin area. The backend is Supabase and Postgres with a seventeen-table
+schema and Row Level Security on every table - the database, not the client, decides who
+may read or write each row.
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `Supabase` `PostgreSQL` `Row Level Security`
 
+[Read the case study](https://shawonhaque.github.io/projects/nexora.html) - problem,
+architecture, security decisions and trade-offs.
+
 ### [Personal Portfolio](https://shawonhaque.github.io) &nbsp;·&nbsp; [source](https://github.com/shawonhaque/shawonhaque.github.io)
 
-A responsive, accessible single-page portfolio built with semantic HTML, modern CSS and
-vanilla JavaScript - no framework overhead and no build step.
+A responsive, accessible portfolio built with semantic HTML, modern CSS and vanilla
+JavaScript - no framework overhead and no build step. The home page is one scrolling
+page; the case studies, the process page and the writing index are separate documents
+that share the same stylesheet.
 
 `HTML` `CSS` `JavaScript` `SEO` `Accessibility` `GitHub Pages`
 
 Features a light/dark theme system, optimised responsive images, complete SEO and social
 metadata, and automated deployment.
+
+[Read the case study](https://shawonhaque.github.io/projects/portfolio.html) - the
+accessibility, SEO and PDF work behind it.
 
 ---
 
