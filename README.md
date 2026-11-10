@@ -21,6 +21,9 @@
 <a href="https://shawonhaque.github.io/projects/">
   <img src="https://img.shields.io/badge/Case%20studies-Read-0f766e?style=flat-square&logo=readme&logoColor=white" alt="Case studies" />
 </a>
+<a href="https://shawonhaque.github.io/writing.html">
+  <img src="https://img.shields.io/badge/Writing-Long--form-1f2937?style=flat-square&logo=googledocs&logoColor=white" alt="Writing" />
+</a>
 <a href="https://github.com/shawonhaque?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Browse-1f2937?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
 </a>
@@ -42,6 +45,7 @@ underneath it, and how quickly it loads for the people relying on it.
 
 I would rather show a small body of honest work than a long list of things that do not exist.
 [How I learned this stack, and how I build](https://shawonhaque.github.io/journey.html).
+I also write up the work in detail - [case studies and long-form notes](https://shawonhaque.github.io/writing.html).
 
 ---
 
