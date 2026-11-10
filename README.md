@@ -83,8 +83,10 @@ architecture, security decisions and trade-offs.
 
 ### [Personal Portfolio](https://shawonhaque.github.io) &nbsp;·&nbsp; [source](https://github.com/shawonhaque/shawonhaque.github.io)
 
-A responsive, accessible single-page portfolio built with semantic HTML, modern CSS and
-vanilla JavaScript - no framework overhead and no build step.
+A responsive, accessible portfolio built with semantic HTML, modern CSS and vanilla
+JavaScript - no framework overhead and no build step. The home page is one scrolling
+page; the case studies, the process page and the writing index are separate documents
+that share the same stylesheet.
 
 `HTML` `CSS` `JavaScript` `SEO` `Accessibility` `GitHub Pages`
 
