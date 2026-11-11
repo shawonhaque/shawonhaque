@@ -96,6 +96,18 @@ metadata, and automated deployment.
 [Read the case study](https://shawonhaque.github.io/projects/portfolio.html) - the
 accessibility, SEO and PDF work behind it.
 
+### [Talking-Video Portfolio](https://shawonhaque.github.io/Shawon-/) &nbsp;·&nbsp; [source](https://github.com/shawonhaque/Shawon-)
+
+A second take on my portfolio, built as a **TanStack Start** application. The hero is a
+talking 3D avatar with a synced voice track, a physics lanyard ID card and a
+periodic-table skill inspector. It is server-rendered, prerendered to static HTML, and
+published to GitHub Pages by a workflow.
+
+`React` `TypeScript` `TanStack Start` `Tailwind CSS` `Vite` `GitHub Actions` `GitHub Pages`
+
+[Read the case study](https://shawonhaque.github.io/projects/shawon.html) - the talking
+avatar, the seamless loop and the static-hosting approach.
+
 ---
 
 ## Experience
