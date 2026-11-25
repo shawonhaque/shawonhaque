@@ -42,6 +42,7 @@ underneath it, and how quickly it loads for the people relying on it.
 - **Backend** - Node.js and REST APIs
 - **Engineering** - reusable components, clear separation of concerns, accessibility and performance as defaults
 - **Currently** - building out my public track record, one real, tested project at a time
+- **Interests** - offline-first design, Bengali-first interfaces, and public-data APIs
 
 I would rather show a small body of honest work than a long list of things that do not exist.
 [How I learned this stack, and how I build](https://shawonhaque.github.io/journey.html).
@@ -60,9 +61,9 @@ I also write up the work in detail - [case studies and long-form notes](https://
 | Area | Technologies |
 |------|--------------|
 | **Frontend** | HTML · CSS · JavaScript · TypeScript · Responsive layout · Web accessibility |
-| **Frameworks & libraries** | React.js · Next.js · Tailwind CSS |
+| **Frameworks & libraries** | React.js · Next.js · TanStack Start · Tailwind CSS · Leaflet · Three.js |
 | **Backend & data** | Node.js · REST APIs · PostgreSQL · Supabase · Row Level Security |
-| **Tools & workflow** | Git · GitHub · GitHub Actions · Vite · VS Code · Linux |
+| **Tools & workflow** | Git · GitHub · GitHub Actions · Vite · VS Code · Linux · OpenStreetMap / Overpass |
 
 ---
 
@@ -107,6 +108,22 @@ published to GitHub Pages by a workflow.
 
 [Read the case study](https://shawonhaque.github.io/projects/shawon.html) - the talking
 avatar, the seamless loop and the static-hosting approach.
+
+### [Islamic Life, a Bengali-first worship companion](https://shawonhaque.github.io/Islamic-Life/) &nbsp;·&nbsp; [source](https://github.com/shawonhaque/Islamic-Life)
+
+One page that holds the whole Quran with Bengali translation, prayer times computed on
+the device from your coordinates, qibla, tafsir, hadith, a tasbih counter, zakat and a
+hijri calendar - written in Bengali first. The mosque finder queries OpenStreetMap for
+whatever the map is showing, so it works in any city rather than only where I live.
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Leaflet` `Three.js` `GitHub Pages`
+
+It ships as a static bundle with no backend at all: prayer times are arithmetic, the
+Quran is converted to JSON at build time, and settings stay in `localStorage` unless you
+opt into cloud backup.
+
+[Read the case study](https://shawonhaque.github.io/projects/islamic-life.html) - the
+offline-first decisions and the mosque finder that had to stop searching a fixed radius.
 
 ---
 
