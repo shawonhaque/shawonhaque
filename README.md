@@ -1,17 +1,15 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f766e&height=180&section=header&text=Shawon%20Haque&fontSize=46&fontColor=ffffff&desc=Full%20Stack%20Developer&descSize=17&descAlignY=62&animation=fadeIn" alt="Shawon Haque,Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f766e&height=180&section=header&text=Shawon%20Haque&fontSize=46&fontColor=ffffff&animation=fadeIn" alt="Shawon Haque" />
 
 # Shawon Haque
-
-**Developer** building fast, accessible and maintainable web applications - from polished interfaces in **React** and **Next.js** to the **Node.js** services behind them.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img width="100%" alt="Shawon Haque's GitHub profile as an ASCII neofetch card" src="dark_mode.svg" />
 </picture>
-
 
 <a href="https://shawonhaque.github.io">
   <img src="https://img.shields.io/badge/Portfolio-shawonhaque.github.io-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
@@ -52,7 +50,9 @@ underneath it, and how quickly it loads for the people relying on it.
 - **Interests** - offline-first design, Bengali-first interfaces, and public-data APIs
 
 I would rather show a small body of honest work than a long list of things that do not exist.
+
 [How I learned this stack, and how I build](https://shawonhaque.github.io/journey.html).
+
 I also write up the work in detail - [case studies and long-form notes](https://shawonhaque.github.io/writing.html).
 
 ---
@@ -61,7 +61,7 @@ I also write up the work in detail - [case studies and long-form notes](https://
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,supabase,git,github,linux&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Supabase, Git, GitHub, Linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,supabase,git,github,linux&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Supabase, Git, GitHub, Linux" />
 
 </div>
 
@@ -76,7 +76,7 @@ I also write up the work in detail - [case studies and long-form notes](https://
 
 ## Featured projects
 
-### [NEXORA, full-stack knowledge platform](https://shawonhaque.github.io/Nexora/) &nbsp;·&nbsp; [source](https://github.com/shawonhaque/Nexora)
+### [NEXORA, full-stack knowledge platform](https://shawonhaque.github.io/Nexora/) · [source](https://github.com/shawonhaque/Nexora)
 
 A full-stack knowledge platform for news, books, study resources and writing. Twenty page
 modules across thirty-three routes, with full-text search, light/dark theming and an
@@ -89,7 +89,7 @@ may read or write each row.
 [Read the case study](https://shawonhaque.github.io/projects/nexora.html) - problem,
 architecture, security decisions and trade-offs.
 
-### [Personal Portfolio](https://shawonhaque.github.io) &nbsp;·&nbsp; [source](https://github.com/shawonhaque/shawonhaque.github.io)
+### [Personal Portfolio](https://shawonhaque.github.io) · [source](https://github.com/shawonhaque/shawonhaque.github.io)
 
 A responsive, accessible portfolio built with semantic HTML, modern CSS and vanilla
 JavaScript - no framework overhead and no build step. The home page is one scrolling
@@ -104,7 +104,7 @@ metadata, and automated deployment.
 [Read the case study](https://shawonhaque.github.io/projects/portfolio.html) - the
 accessibility, SEO and PDF work behind it.
 
-### [Talking-Video Portfolio](https://shawonhaque.github.io/Shawon-/) &nbsp;·&nbsp; [source](https://github.com/shawonhaque/Shawon-)
+### [Talking-Video Portfolio](https://shawonhaque.github.io/Shawon-/) · [source](https://github.com/shawonhaque/Shawon-)
 
 A second take on my portfolio, built as a **TanStack Start** application. The hero is a
 talking 3D avatar with a synced voice track, a physics lanyard ID card and a
@@ -116,7 +116,7 @@ published to GitHub Pages by a workflow.
 [Read the case study](https://shawonhaque.github.io/projects/shawon.html) - the talking
 avatar, the seamless loop and the static-hosting approach.
 
-### [Islamic Life, a Bengali-first worship companion](https://shawonhaque.github.io/Islamic-Life/) &nbsp;·&nbsp; [source](https://github.com/shawonhaque/Islamic-Life)
+### [Islamic Life, a Bengali-first worship companion](https://shawonhaque.github.io/Islamic-Life/) · [source](https://github.com/shawonhaque/Islamic-Life)
 
 One page that holds the whole Quran with Bengali translation, prayer times computed on
 the device from your coordinates, qibla, tafsir, hadith, a tasbih counter, zakat and a
@@ -173,13 +173,5 @@ I am open to full-time roles, freelance work and collaboration.
 | **GitHub** | [github.com/shawonhaque](https://github.com/shawonhaque) |
 
 <img src="https://komarev.com/ghpvc/?username=shawonhaque&style=flat-square&color=1d4ed8&label=Profile%20views" alt="Profile views" />
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/shawonhaque/shawonhaque/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity animation" />
 
 </div>
