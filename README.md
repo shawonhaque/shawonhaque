@@ -6,6 +6,13 @@
 
 **Full Stack Developer** building fast, accessible and maintainable web applications - from polished interfaces in **React** and **Next.js** to the **Node.js** services behind them.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img width="100%" alt="Shawon Haque's GitHub profile as an ASCII neofetch card" src="dark_mode.svg" />
+</picture>
+
+
 <a href="https://shawonhaque.github.io">
   <img src="https://img.shields.io/badge/Portfolio-shawonhaque.github.io-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
