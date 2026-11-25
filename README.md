@@ -4,7 +4,7 @@
 
 # Shawon Haque
 
-**Full Stack Developer** building fast, accessible and maintainable web applications - from polished interfaces in **React** and **Next.js** to the **Node.js** services behind them.
+**Developer** building fast, accessible and maintainable web applications - from polished interfaces in **React** and **Next.js** to the **Node.js** services behind them.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
