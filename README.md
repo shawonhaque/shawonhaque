@@ -61,15 +61,15 @@ I also write up the work in detail - [case studies and long-form notes](https://
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,supabase,git,github,linux&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Supabase, Git, GitHub, Linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,prisma,supabase,git,github,linux&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Prisma, Supabase, Git, GitHub, Linux" />
 
 </div>
 
 | Area | Technologies |
 |------|--------------|
 | **Frontend** | HTML · CSS · JavaScript · TypeScript · Responsive layout · Web accessibility |
-| **Frameworks & libraries** | React.js · Next.js · TanStack Start · Tailwind CSS · Leaflet · Three.js |
-| **Backend & data** | Node.js · REST APIs · PostgreSQL · Supabase · Row Level Security |
+| **Frameworks & libraries** | React.js · Next.js (App Router) · TanStack Start · Tailwind CSS · Leaflet · Three.js |
+| **Backend & data** | Node.js · REST APIs · PostgreSQL · Prisma ORM · Supabase · Row Level Security |
 | **Tools & workflow** | Git · GitHub · GitHub Actions · Vite · VS Code · Linux · OpenStreetMap / Overpass |
 
 ---
@@ -131,6 +131,20 @@ opt into cloud backup.
 
 [Read the case study](https://shawonhaque.github.io/projects/islamic-life.html) - the
 offline-first decisions and the mosque finder that had to stop searching a fixed radius.
+
+### [Hawa Computer, a bilingual business platform](https://github.com/shawonhaque/Hawa-Computer-) · [case study](https://shawonhaque.github.io/projects/hawa-computer.html)
+
+A production platform for a computer and IT-services business in Bangladesh: a Bangla/English
+storefront for hardware, government-application services and computer courses; a customer
+account area for orders, invoices, library loans and support tickets; and a staff admin panel
+where nine roles and fifty-four permissions decide what can be touched. The whole business is
+one Prisma schema - forty-eight tables with committed migrations, seed data and an audit log
+behind every privileged action.
+
+`Next.js 15` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` `Zod` `Docker`
+
+[Read the case study](https://shawonhaque.github.io/projects/hawa-computer.html) - the bilingual
+data model, the permission boundary and the paper trail behind manual payments.
 
 ---
 
