@@ -39,7 +39,7 @@
 
 ## About
 
-I am a Full Stack Developer working across the modern JavaScript ecosystem. I care about
+I am a Developer working across the modern JavaScript ecosystem. I care about
 the whole path a product takes: how an interface feels to use, how the code is structured
 underneath it, and how quickly it loads for the people relying on it.
 
