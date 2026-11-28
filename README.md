@@ -148,6 +148,19 @@ data model, the permission boundary and the paper trail behind manual payments.
 
 ---
 
+## All repositories
+
+| Repository | What it is | Live | Status |
+|---|---|---|---|
+| [Hawa-Computer-](https://github.com/shawonhaque/Hawa-Computer-) | Bilingual storefront and management platform for a computer business - Next.js 15, Prisma, PostgreSQL | [Static preview](https://shawonhaque.github.io/Hawa-Computer-/) | Complete; needs a database to run the ordering, login and admin flows |
+| [Islamic-Life](https://github.com/shawonhaque/Islamic-Life) | Bengali-first worship companion - Quran, prayer times, qibla, tafsir, hadith, zakat | [Live](https://shawonhaque.github.io/Islamic-Life/) | Live, no backend |
+| [Nexora](https://github.com/shawonhaque/Nexora) | Knowledge platform for news, books and study resources - React, TypeScript, Supabase | [Live](https://shawonhaque.github.io/Nexora/) | Live |
+| [Shawon-](https://github.com/shawonhaque/Shawon-) | Interactive portfolio with a talking-avatar hero - TanStack Start, prerendered | [Live](https://shawonhaque.github.io/Shawon-/) | Live |
+| [shawonhaque.github.io](https://github.com/shawonhaque/shawonhaque.github.io) | Portfolio hub, case studies and the engineering records behind them - no build step | [Live](https://shawonhaque.github.io/) | Live |
+| [shawonhaque](https://github.com/shawonhaque/shawonhaque) | This profile README, plus the workflow that refreshes the ASCII card | - | This file |
+
+---
+
 ## Experience
 
 **Input Man** · Jinnat Knitwears Ltd. (DBL Group) · *Jan 2025 - Present*
